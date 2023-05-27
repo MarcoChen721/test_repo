@@ -1,0 +1,8 @@
+hello world
+hello python
+hello bigdata
+hello hive
+hello spark
+hello presto
+hello mysql
+hello oozie...
